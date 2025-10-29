@@ -9,6 +9,6 @@ public class FVCalc
 		
 		double fututeValue = currentValue * Math.pow((1 + (annualInterestRate / 100)), numYears); // Dividing intrest rate by 100 so it will be in precentage
 
-		System.out.println("After " + numYears + " years, $" + currentValue + " saved at " + annualInterestRate + "% will yield " + (int)fututeValue);
+		System.out.println("After " + numYears + " years, $" + currentValue + " saved at " + annualInterestRate + "% will yield $" + (int)fututeValue);
 	}
 }
