@@ -1,5 +1,4 @@
 // Computes the future value of a saving investment.
-// This function
 public class FVCalc 
 {
 	public static void main(String[] args)

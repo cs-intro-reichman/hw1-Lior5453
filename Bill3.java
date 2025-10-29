@@ -1,4 +1,5 @@
 // Splits a restaurant bill evenly among three diners.
+
 // The program will get 3 names and the dinner price
 // This program will print the value each person will have to pay rounden up
 public class Bill3 
